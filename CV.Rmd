@@ -1,0 +1,71 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Carl Ganz
+
+jobtitle: "Statistical Programmer"
+address: "3950 Longridge Ave · Sherman Oaks, CA 91423"
+fontawesome: no
+email: carlganz@gmail.com
+github: carlganz
+phone: "310-794-2735"
+# web: http://healthpolicy.ucla.edu
+updated: no
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Employment
+
+*UCLA Center for Health Policy Research*, Assistatnt Statistician \hfill 2015-2017
+
+*Conference on World Affairs*, Student Assistant \hfill 2013-2014
+
+# Education
+
+*California State University, Northridge*, M.S. Mathematics \hfill 2018
+
+*University of Colorado, Boulder*, B.A. Mathematics & Economics \hfill 2014
+
+# Progamming Languages/Statistical Software
+
+**Very Knowledgable**:
+
+* R
+
+* SAS
+
+**Medium Knowledgable**:
+
+* Stata
+
+* HTML/CSS/Javascript
+
+**Somewhat Familiar**:
+
+* C++
+
+* VBA
+
+* Bash
+
+# R Packages
+
+*rintrojs*: Wrapper for the 'Intro.js' Library [on CRAN](https://cran.r-project.org/package=rintrojs)
+
+*CSUNtemplate*: R Markdown template for CSUN Master's Thesis [on github](https://github.com/carlganz/CSUNtemplate)
+
+# Posters
+
+**Ganz**, Esfahani, Yu, Ponce. 2017. ["Using Shiny to Efficiently Process Survey Data."](https://github.com/carlganz/CSP2017) *ASA Conference on Statistical Practice*.
+
+Esfahani, Jans, Ponce, **Ganz**. 2015. ["How to code school names more efficiently: Common sense, scripting, and a novel SAS application."](https://www.researchgate.net/publication/280742943_How_to_code_school_names_more_efficiently_Common_sense_scripting_and_a_novel_SAS_application) *AAPOR Annual Conference*.
